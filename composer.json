@@ -1,0 +1,42 @@
+{
+    "name": "october/drivers",
+    "description": "Drivers OctoberCMS plugin",
+    "keywords": ["october", "cms", "drivers", "plugin"],
+    "license": "MIT",
+
+    "authors": [
+        {
+            "name": "Alexey Bobkov",
+            "email": "aleksey.bobkov@gmail.com",
+            "role": "Co-founder"
+        },
+        {
+            "name": "Samuel Georges",
+            "email": "daftspunky@gmail.com",
+            "role": "Co-founder"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+
+        "aws/aws-sdk-php": "~2.0",
+        "pda/pheanstalk": "~3.0",
+        "iron-io/iron_mq": "~1.5",
+        "predis/predis": "~1.0",
+
+        "league/flysystem-rackspace": "~1.0",
+        "league/flysystem-aws-s3-v2": "~1.0",
+
+        "guzzlehttp/guzzle": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "October\\Drivers\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
