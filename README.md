@@ -1,7 +1,6 @@
 # drivers-plugin
 
-This plugin is required when working with third party services in October.
-Provides drivers used by services in Queue, Mail and Storage.
+This plugin is required when working with some third party services in OctoberCMS. Provides drivers used by services in Queue, Mail and Storage.
 
 The composer packages introduced by this plugin are listed below:
 
@@ -11,4 +10,4 @@ The composer packages introduced by this plugin are listed below:
 - **predis/predis** at version `~1.0`
 - **league/flysystem-rackspace** at version `~1.0`
 - **league/flysystem-aws-s3-v2** at version `~1.0`
-- **guzzlehttp/guzzle** at version `~4.0`
+- **guzzlehttp/guzzle** at version `~5.0`
