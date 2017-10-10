@@ -1,5 +1,5 @@
 {
-    "name": "october/drivers",
+    "name": "october/drivers-plugin",
     "type": "october-plugin",
     "description": "Drivers OctoberCMS plugin",
     "homepage": "https://octobercms.com/plugin/october-drivers",
