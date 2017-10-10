@@ -1,9 +1,10 @@
 {
     "name": "october/drivers",
+    "type": "october-plugin",
     "description": "Drivers OctoberCMS plugin",
+    "homepage": "https://octobercms.com/plugin/october-drivers",
     "keywords": ["october", "cms", "drivers", "plugin"],
     "license": "MIT",
-
     "authors": [
         {
             "name": "Alexey Bobkov",
@@ -18,6 +19,7 @@
     ],
     "require": {
         "php": ">=5.5.9",
+        "composer/installers": "~1.0",
 
         "aws/aws-sdk-php": "~3.0",
         "pda/pheanstalk": "~3.0",
