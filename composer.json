@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9",
+        "php": ">=7.0",
         "composer/installers": "~1.0",
 
         "aws/aws-sdk-php": "~3.0",
@@ -29,7 +29,7 @@
         "league/flysystem-rackspace": "~1.0",
         "league/flysystem-aws-s3-v3": "~1.0",
 
-        "guzzlehttp/guzzle": "~6.0",
+        "guzzlehttp/guzzle": "~6.3",
 
         "laravelcollective/remote": "5.4.*"
     },
