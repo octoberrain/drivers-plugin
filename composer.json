@@ -21,7 +21,7 @@
         "php": ">=7.0",
         "composer/installers": "~1.0",
 
-        "aws/aws-sdk-php": "~3.0",
+        "aws/aws-sdk-php": "~3.1",
         "pda/pheanstalk": "~3.0",
         "iron-io/iron_mq": "~1.5",
         "predis/predis": "~1.0",

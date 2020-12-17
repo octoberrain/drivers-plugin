@@ -4,7 +4,7 @@ This plugin is required when working with some third party services in OctoberCM
 
 The composer packages introduced by this plugin are listed below:
 
-- **aws/aws-sdk-php** at version `~3.0`
+- **aws/aws-sdk-php** at version `~3.1`
 - **pda/pheanstalk** at version `~3.0`
 - **iron-io/iron_mq** at version `~1.5`
 - **predis/predis** at version `~1.0`
