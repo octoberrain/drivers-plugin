@@ -11,3 +11,4 @@ The composer packages introduced by this plugin are listed below:
 - **league/flysystem-rackspace** at version `~1.0`
 - **league/flysystem-aws-s3-v3** at version `~1.0`
 - **guzzlehttp/guzzle** at version `~6.0`
+- **laravelcollective/remote** at version `5.4.*`
