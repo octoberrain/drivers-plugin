@@ -22,4 +22,4 @@ Package                        | Version
 
 ### License
 
-This plugin is licensed under the [MIT license](./LICENSE.md). You are welcome to copy it to create your own mail drivers for October CMS.
+This plugin is licensed under the [MIT license](./LICENSE.md).
